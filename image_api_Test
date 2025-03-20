@@ -1,4 +1,5 @@
 {
+"images" :[
     {
       "name": "Back1",
       "url": "https://raw.githubusercontent.com/santudas-dev/BackGroundImage/main/CIVITAI/back1.png"
@@ -23,5 +24,6 @@
       "name": "Back4",
       "url": "https://raw.githubusercontent.com/santudas-dev/BackGroundImage/main/CIVITAI/back4.png"
     }
+]
   
 }
